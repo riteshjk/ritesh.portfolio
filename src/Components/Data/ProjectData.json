@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "img": "https://miro.medium.com/max/1400/1*R__cdn8L1gYGK1Tdqqyubg.png",
+        "name": "SportsJam (clone)",
+        "desc": "An e-commerce web application dealing with the sale of sports items in India. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS.",
+        "github": "https://github.com/sreerag-rajan/sportsjam-clone",
+        "link": "https://practical-meninsky-36f305.netlify.app/",
+        "tech":[
+            "https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1200%2F1*QGAohJNwnSsgRdZ711s7bw.png",
+        "name": "VijaySales (clone)",
+        "desc": "An e-commerce website where one can purchase various electronic products. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS, NodeJs, Express.",
+        "github": "https://github.com/RAHULANN/vijay-Sales-project",
+        "link": "https://vibrant-allen-caf254.netlify.app/",
+        "tech":[
+            "https://github.com/Vinesh3124/Vinesh3124.github.io/blob/main/src/Components/Images/MERN.png?raw=true"
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://i.pinimg.com/564x/f4/f6/c2/f4f6c289a3fa21c5d246aa96c3f47aa0.jpg",
+        "name": "youtube (clone)",
+        "desc": "About YouTube Our mission is to give everyone a voice and show them the world.",
+        "github": "https://github.com/riteshjk/youtube.clone",
+        "link": "https://ritesh-youtube-clone.netlify.app",
+        "tech":[
+            "https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
+        ]
+    }
+    
+    
+]
+
+
