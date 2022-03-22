@@ -16,4 +16,6 @@ const imgData = [
     MongoDB_logo, express_logo, mongoose_logo , github_logo, nodejs_logo
 ]
 
-export {imgData}
+const data =["https://developer.mozilla.org/en-US/docs/Web/HTML","https://developer.mozilla.org/en-US/docs/Web/CSS","https://developer.mozilla.org/en-US/docs/Web/javascript","https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_resources","https://redux.js.org/introduction/getting-started/","https://mui.com/getting-started/installation/","https://styled-components.com/","https://docs.mongodb.com/manual/reference/command/","https://www.javatpoint.com/expressjs-tutorial","https://en.wikipedia.org/wiki/Mongoose","https://en.wikipedia.org/wiki/GitHub","https://www.w3schools.com/nodejs/nodejs_intro.asp"]
+
+export {imgData,data}

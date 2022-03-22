@@ -90,9 +90,9 @@
     
     .typebox>h2{
         color: red;
-        margin: auto;
+        margin: 50px;
         text-align: center;
-        font-size: 25px;
+        font-size: 18px;
     }
 }
 
@@ -120,7 +120,7 @@
     
     .typebox>h2{
         color: red;
-        margin: auto;
+        margin: 60px;
         text-align: center;
         font-size: 25px;
     }
