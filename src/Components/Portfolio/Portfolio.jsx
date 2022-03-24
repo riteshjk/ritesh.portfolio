@@ -35,8 +35,9 @@ const Portfolio = () => {
                 </h2>
             </Box>
             <Box className={styles.name}>
-                <p>Full Stack Developer with a passion for development and excited to be at the deployment phase of my 
-                    career as a web developer. Proficient in Frontend technology as well as in backend technology.
+                <p> A Javascript Full-Stack Developer, Lover of creating products which make people's life easier. I'm always eager to hear about new ideas, create and learn new things. Proficient in Frontend technology as well as in backend technology. 
+
+                   
                 </p>
             </Box>
         </Container>

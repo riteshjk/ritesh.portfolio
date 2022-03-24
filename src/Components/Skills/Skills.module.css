@@ -6,7 +6,7 @@
 }
 
 .rightBox{
-    width: 90%;
+    width: 50%;
     display: flex;
     flex-wrap: wrap;
     margin-top: 5%;
@@ -17,11 +17,11 @@
 
 .iconBox{
     width: 10%;
-    height: 70px;
+    height: 50px;
     margin-left: 11%;
     margin-top: 5%;
     /* border-radius: 50%; */
-    padding: 8px;
+    padding: 5px;
     border-radius: 0px;
     background: white;
     box-shadow:  6px 6px 12px #aaa7a5,
